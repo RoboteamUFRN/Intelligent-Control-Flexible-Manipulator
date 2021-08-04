@@ -6,7 +6,7 @@ Adilson J. Oliveira, adilson@ct.ufrn.br,
 Wallace M. Bessa, wmobes@utu.fi
 
 In this project you can find the:
-(a) Labview project used for implementating the intelligent controller for a single-link flexible maniipulator prototype;
+(a) Labview project used for implementating the intelligent controller for a single-link flexible manipulator prototype;
 (b) and all the results obtained by this implementation considering the intelligent and adaptive approaches.
 
 The columns of the results file are divided as follows:
