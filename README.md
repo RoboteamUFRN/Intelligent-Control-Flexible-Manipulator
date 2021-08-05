@@ -5,9 +5,10 @@ Diego R. Porto, drporto@outlook.com,
 Adilson J. Oliveira, adilson@ct.ufrn.br,
 Wallace M. Bessa, wmobes@utu.fi
 
-In this project you can find the:
-(a) Labview project used for implementating the intelligent controller for a single-link flexible manipulator prototype;
-(b) and all the results obtained by this implementation considering the intelligent and adaptive approaches.
+In this folder you can find the:
+(a) the algorithm summarizing the proposed scheme;
+(b) Labview project used for implementating the intelligent controller for a single-link flexible manipulator prototype;
+(c) and all the results obtained by this implementation considering the intelligent and adaptive approaches.
 
 The columns of the results file are divided as follows:
 [1] time
